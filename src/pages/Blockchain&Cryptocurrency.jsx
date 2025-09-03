@@ -5,7 +5,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 
 import aihero from "../assets/com.mp4";
-import a1 from "../assets/com1.webp"; // your AI/ML service image
+import a1 from "../assets/con1.png"; // your AI/ML service image
 import a2 from "../assets/com2.jpg"; // another AI/ML service
 
 const benefits = [
