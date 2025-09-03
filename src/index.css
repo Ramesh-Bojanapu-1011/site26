@@ -2,14 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-  font-family: "Inter";
-  src: url("/fonts/Inter-Latin.woff2") format("woff2");
-  font-weight: 300 700;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0000-00FF; /* Basic Latin */
-}
+ 
 
 * {
   margin: 0;
